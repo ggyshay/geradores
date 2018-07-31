@@ -1,6 +1,6 @@
 # geradores
 Conjunto de geradores para formularios.
-No Android ele gera e coloca o valor gerado no campo focado
+No Android ele gera e coloca o valor gerado no campo focado.
 
 Form values generators.
 On Android it generates the values and puts them into the focused field.
@@ -13,4 +13,7 @@ On Android it generates the values and puts them into the focused field.
 
 ## nome
 `./gera.sh nome`
+
+## dependencias
+node.js: https://nodejs.org/en/
 
